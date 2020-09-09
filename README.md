@@ -5,5 +5,7 @@ throught he online lessons in the [introduction to earth data science textbook o
 
 Nate Q trying to make some edits to this README.md
 
+More edits!!1!
+
 
 
