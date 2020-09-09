@@ -7,5 +7,4 @@ Nate Q trying to make some edits to this README.md
 
 More edits!!1!
 
-
-
+I'm making edits from atom (call the newspaper!)
